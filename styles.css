@@ -74,3 +74,18 @@ li a:hover {
 #myBtn:hover {
     background-color: #555; /* Add a dark-grey background on hover */
 }
+
+#me {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+}
+
+.me {
+    font-family: sans-serif;
+    font-size: 15pt;
+    color: red;
+    text-align: center;
+    font-weight: bold;
+}
