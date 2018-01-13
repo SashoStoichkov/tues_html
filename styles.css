@@ -119,3 +119,9 @@ li a:hover {
     font-size: 30px;
     font-family: cursive;
 }
+
+#text p {
+    color: yellow;
+    font-size: 30px;
+    font-family: cursive;
+}
