@@ -38,7 +38,7 @@ li a:hover {
     background-color: #111;
 }
 
-#patatnik {
+#meal {
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -98,6 +98,24 @@ li a:hover {
     padding-left: auto;
 }
 
+#resort_text p {
+    padding-right: auto;
+    font-family: cursive;
+    font-size: 25px;
+    color: yellow;
+    text-align: left;
+    font-weight: bold;
+}
+
 #imag {
-    padding: 20px;
+    padding: 10px;
+    display: block;
+    width: 700px;
+    height: auto;
+}
+
+#meal-text p {
+    color: yellow;
+    font-size: 30px;
+    font-family: cursive;
 }
